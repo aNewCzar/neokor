@@ -125,7 +125,7 @@ export default {
         leisure_line,
         boundary_line,
         waterway_label,
-        //building_extrusion,
+        building_extrusion,
         icon,
         place,
         country_label,
